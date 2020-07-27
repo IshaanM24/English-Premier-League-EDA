@@ -3,4 +3,4 @@
 - The uploaded package includes - 
     1. Jupyter Notebook
     2. Powerpoint Presentation
-    3. Summary Video
+    3. Summary Video (rar format) - download , unzip and run
